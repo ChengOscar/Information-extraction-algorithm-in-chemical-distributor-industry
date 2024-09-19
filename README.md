@@ -26,4 +26,4 @@ This model stems from named entity recognition model, a context based informatio
 
 **3.** Annotate the user-defined named-entities.
 
-![alt text] Annotation.png
+![alt text] [Annotation.png](https://github.com/ChengOscar/Information-extraction-algorithm-in-chemical-distributor-industry/blob/main/Annotation.png)
