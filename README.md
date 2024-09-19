@@ -27,3 +27,8 @@ This model stems from named entity recognition model, a context based informatio
 **3.** Annotate the user-defined named-entities.
 
 ![Alt text](https://github.com/ChengOscar/Information-extraction-algorithm-in-chemical-distributor-industry/blob/main/Annotation.png)
+
+**4.** Export the annotation into json files and import the json files into the model.
+
+**5.** Train the model with base_config.cfg file. The file can be downloaded here:  https://spacy.io/usage/training.
+And the setting should be as the picture.
