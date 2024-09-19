@@ -1,5 +1,5 @@
 # Project Description
-The goal of this project is to develop an information extraction algorithm from pdf documents in chemical distributor industry to extract pre-defined attributes. Two algorithm is provided in this project- rule-based if loop+ regular expression and custom entity recognition model.
+The goal of this project is to develop an information extraction algorithm from pdf documents in chemical distributor industry for Barentz to extract pre-defined attributes in order to solve the current data problems within the company. Two algorithm is provided in this project- rule-based if loop+ regular expression and custom entity recognition model.
 # Rule-based if loop+ Regular expression
 This method requires users to first go through every pdf files to figure out the word patterns and rules of each attribute.
 
