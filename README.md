@@ -18,4 +18,4 @@ This method requires users to first go through every pdf files to figure out the
 * Might not work for every future document if the naming conventions or rules are different
 
 # Custom Named Entity Recognition
-This model stems from named entity recognition model, a context based information extraction algorithm that define attributes such as **Name**, **Location**, **Country**, and etc. Custom Named Entity Recognition allows users to target the entities based on user-define tags.
+This model stems from named entity recognition model, a context based information extraction algorithm that define attributes such as **Name**, **Location**, **Country**, and etc. Custom Named Entity Recognition allows users to target the entities based on **user-define tags**.
