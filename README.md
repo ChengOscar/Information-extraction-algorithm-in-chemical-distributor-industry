@@ -3,6 +3,8 @@ The goal of this project is to develop an information extraction algorithm from 
 # Rule-based if loop+ Regular expression
 This method requires users to first go through every pdf files to figure out the word patterns and rules of each attribute.
 
+![Alt text](https://github.com/ChengOscar/Information-extraction-algorithm-in-chemical-distributor-industry/blob/main/streamline%20if%20loop.png)
+
 **1.** Separate attributes into two groups- **with or without uniform format**. For the attributes with uniform format, **Regular Expression** can be easily applied to extract the information. For the attributes without uniform format, rules for the attributes have to be defined.
 
 **2.** Design the code based on the word patterns and rules.
