@@ -32,3 +32,13 @@ This model stems from named entity recognition model, a context based informatio
 
 **5.** Train the model with base_config.cfg file. The file can be downloaded here:  https://spacy.io/usage/training.
 And the setting should be as the picture.
+![Alt text](https://github.com/ChengOscar/Information-extraction-algorithm-in-chemical-distributor-industry/blob/main/base_config_cfg%20setting.png)
+
+**6.** Once the training is finished, the testing pdfs can be imported. The model will automatically extract the attributes information and saved into dataframe.
+### Pros
+* Less restrictive to the format
+* Dynamic
+* Very scalable and flexible
+### Cons
+* Time consuming (training model takes 40 minutes with only 16 documents)
+* Model performance is restrictive to the quality of training data
