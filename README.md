@@ -16,3 +16,5 @@ This method requires users to first go through every pdf files to figure out the
 ### Cons
 * Less flexible and scalable
 * Might not work for every future document if the naming conventions or rules are different
+
+# Custom Named Entity Recognition
