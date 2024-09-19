@@ -25,3 +25,5 @@ This model stems from named entity recognition model, a context based informatio
 **2.** Extract text from the pdf files in the training group.
 
 **3.** Annotate the user-defined named-entities.
+
+![alt text] Annotation.png
