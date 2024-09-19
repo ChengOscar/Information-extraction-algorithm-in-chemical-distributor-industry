@@ -10,3 +10,9 @@ This method requires users to first go through every pdf files to figure out the
 **3.** Import the pdf files into the algorithm. The algorithm will first extract the text from the pdf file and extract the attribute information from the text.
 
 **4.** The extracted information will then be saved as a dataframe, excel files, or forms that can be executed by SQL.
+### Pros
+* Low complexity
+* No need for training model
+### Cons
+* Less flexible and scalable
+* Might not work for every future document if the naming conventions or rules are different
