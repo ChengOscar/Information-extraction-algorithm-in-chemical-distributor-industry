@@ -20,6 +20,8 @@ This method requires users to first go through every pdf files to figure out the
 # Custom Named Entity Recognition
 This model stems from named entity recognition model, a context based information extraction algorithm that define attributes such as **Name**, **Location**, **Country**, and etc. Custom Named Entity Recognition allows users to target the entities based on **user-define tags**.
 
-**1.** Separate pdf files into training and testing groups
+**1.** Separate pdf files into training and testing groups.
 
-**2.** Extract text from the pdf files in the training group
+**2.** Extract text from the pdf files in the training group.
+
+**3.** Annotate the user-defined named-entities.
